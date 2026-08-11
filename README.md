@@ -69,4 +69,4 @@ Your Gatekeeper setting allows App Store apps only. In System Settings → Priva
 
 ## Terms
 
-Crossway is free to use. The source code is private, and this page is the only official download location — please link people here rather than re-hosting the zip.
+Crossway is free to use. The source code is private for now, and this page is the only official download location — please link people here rather than re-hosting the zip.
