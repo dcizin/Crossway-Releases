@@ -1,6 +1,6 @@
 # Crossway
 
-[![Latest release](https://img.shields.io/github/v/release/dcizin/Crossway-Releases?label=latest%20release)](https://github.com/dcizin/Crossway-Releases/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/crossway-app/Crossway-Releases?label=latest%20release)](https://github.com/crossway-app/Crossway-Releases/releases/latest)
 
 **A fast ⌘Tab window switcher for macOS.**
 
@@ -21,9 +21,9 @@ Crossway replaces the built-in app switcher with one that understands *windows*,
 
 ## Download
 
-### [⬇️ Download the latest Crossway.zip](https://github.com/dcizin/Crossway-Releases/releases/latest/download/Crossway.zip)
+### [⬇️ Download the latest Crossway.zip](https://github.com/crossway-app/Crossway-Releases/releases/latest/download/Crossway.zip)
 
-Every build is signed with an Apple Developer ID certificate and notarized by Apple. Older versions and release notes are on the [Releases page](https://github.com/dcizin/Crossway-Releases/releases).
+Every build is signed with an Apple Developer ID certificate and notarized by Apple. Older versions and release notes are on the [Releases page](https://github.com/crossway-app/Crossway-Releases/releases).
 
 **Always download in a web browser from this page.** Don't pass the zip around through chat apps — macOS marks files saved by messenger apps so they can never run (see Troubleshooting below).
 
