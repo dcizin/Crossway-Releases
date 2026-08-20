@@ -37,7 +37,7 @@ Every build is signed with an Apple Developer ID certificate and notarized by Ap
    - **Screen Recording** — needed for the window thumbnail previews.
 5. Relaunch Crossway after granting (the app walks you through this on first run).
 
-Nothing you do in Crossway leaves your Mac: the app contains no networking code at all — it cannot phone home, check for updates, or upload anything. Updates are manual: revisit this page and download the newest build.
+Crossway records nothing and uploads nothing. The app makes exactly one kind of network request, and only when you ask it to: **menu-bar icon → Check for Updates…** fetches the latest release info from this repository and tells you if a newer build is available, with a download button. That is the app's entire network surface — no telemetry, no automatic or background checks, nothing uploaded, ever. Installing an update is still manual: download the new zip (from this page or via that button) and replace the app.
 
 ## Troubleshooting
 
@@ -64,8 +64,9 @@ Your Gatekeeper setting allows App Store apps only. In System Settings → Priva
 
 ## Which version am I running?
 
-- **When downloading:** the release title says it — for example *Crossway 1.10 (build 21)* — and every release also includes a version-named copy of the zip (like `Crossway-1.10-b21.zip`), so the file itself tells you what it is.
-- **Once installed:** click the Crossway menu-bar icon → **Settings…** — the version is shown at the bottom of the window. Or select `/Applications/Crossway.app` in Finder and press ⌘I (Get Info).
+- **When downloading:** the release title says it — for example *Crossway 1.11* — and every release also includes a version-named copy of the zip (like `Crossway-1.11.zip`), so the file itself tells you what it is.
+- **Once installed:** click the Crossway menu-bar icon → **Settings…** — your version is shown at the bottom of the Settings window. Or select `/Applications/Crossway.app` in Finder and press ⌘I (Get Info).
+- **To see if you're current:** click the menu-bar icon → **Check for Updates…** — Crossway compares your build against the newest release here and offers the download if there's something newer.
 
 ## Terms
 
